@@ -4,5 +4,5 @@ import AppRouter from './router/AppRouter'
 function App() {
   return <AppRouter />
 }
-
+//expotacion por defecto de la funcion App
 //export default App
