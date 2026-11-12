@@ -32,5 +32,5 @@ export const AppRouter = () => {
     </BrowserRouter>
   )
 }
-
+// exportación por defecto de la función AppRouter
 export default AppRouter
